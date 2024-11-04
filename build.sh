@@ -91,15 +91,15 @@ cd $BUILD_DIR
   "https://www.nasm.us/pub/nasm/releasebuilds/2.15.05/"
 
 download \
-  "OpenSSL_1_0_2o.tar.gz" \
+  "openssl-3.4.0.tar.gz" \
   "" \
-  "5b5c050f83feaa0c784070637fac3af4" \
+  "34733f7be2d60ecd8bd9ddb796e182af" \
   "https://github.com/openssl/openssl/archive/"
 
 download \
-  "v1.2.11.tar.gz" \
-  "zlib-1.2.11.tar.gz" \
-  "0095d2d2d1f3442ce1318336637b695f" \
+  "v1.3.1.tar.gz" \
+  "zlib-1.3.1.tar.gz" \
+  "ddb17dbbf2178807384e57ba0d81e6a1" \
   "https://github.com/madler/zlib/archive/"
 
 download \
@@ -140,8 +140,8 @@ download \
   "https://github.com/fribidi/fribidi/releases/download/v1.0.2/"
 
 download \
-  "0.13.6.tar.gz" \
-  "libass-0.13.6.tar.gz" \
+  "0.17.3.tar.gz" \
+  "libass-0.17.3.tar.gz" \
   "nil" \
   "https://github.com/libass/libass/archive/"
 
@@ -158,9 +158,9 @@ download \
   "https://github.com/xiph/opus/releases/download/v1.1.2"
 
 download \
-  "v1.6.1.tar.gz" \
-  "vpx-1.6.1.tar.gz" \
-  "b0925c8266e2859311860db5d76d1671" \
+  "v1.15.0.tar.gz" \
+  "vpx-1.15.0.tar.gz" \
+  "0b81639f39da9d218459a5643ff423f3" \
   "https://github.com/webmproject/libvpx/archive"
 
 download \
@@ -176,9 +176,9 @@ download \
   "https://sourceforge.net/projects/soxr/files/"
 
 download \
-  "release-0.98b.tar.gz" \
-  "vid.stab-release-0.98b.tar.gz" \
-  "299b2f4ccd1b94c274f6d94ed4f1c5b8" \
+  "vid.stab-1.1.1.tar.gz" \
+  "" \
+  "3fb59a96f6e49e2719fd8c551eb3617a" \
   "https://github.com/georgmartius/vid.stab/archive/"
 
 download \
