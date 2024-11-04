@@ -176,8 +176,8 @@ download \
   "https://sourceforge.net/projects/soxr/files/"
 
 download \
+  "v1.1.1.tar.gz" \
   "vid.stab-1.1.1.tar.gz" \
-  "" \
   "3fb59a96f6e49e2719fd8c551eb3617a" \
   "https://github.com/georgmartius/vid.stab/archive/"
 
