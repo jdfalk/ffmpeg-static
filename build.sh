@@ -160,7 +160,7 @@ download \
 download \
   "v1.15.0.tar.gz" \
   "vpx-1.15.0.tar.gz" \
-  "0b81639f39da9d218459a5643ff423f3" \
+  "6d2b7b8e1c06f4b10ae63ca22491f8a4" \
   "https://github.com/webmproject/libvpx/archive"
 
 download \
