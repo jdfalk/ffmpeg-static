@@ -93,7 +93,7 @@ cd $BUILD_DIR
 download \
   "openssl-3.0.13.tar.gz" \
   "" \
-  "3ca6a50770f854067576e13ee33a606f" \
+  "c15e53a62711002901d3515ac8b30b86" \
   "https://github.com/openssl/openssl/archive/"
 
 download \
