@@ -91,7 +91,7 @@ cd $BUILD_DIR
   "https://www.nasm.us/pub/nasm/releasebuilds/2.15.05/"
 
 download \
-  "openssl-3.2.1.tar.gz" \
+  "openssl-3.0.13.tar.gz" \
   "" \
   "3ca6a50770f854067576e13ee33a606f" \
   "https://github.com/openssl/openssl/archive/"
